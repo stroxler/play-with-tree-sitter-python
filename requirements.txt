@@ -1,0 +1,6 @@
+tree_sitter
+ipython
+
+# for emacs to be happy
+pylint
+flake8
